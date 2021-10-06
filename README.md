@@ -6,7 +6,10 @@ Hacktoberfest2021 new is completely dediacted for people to explore the world of
 
 If you haven't registered for the event  👉 https://hacktoberfest.digitalocean.com/
 
-
+You can Contribute to three folders in this repo 
+1. New_to_Opensource
+2.Profile
+3. Share_Your_Work
 
 
 
